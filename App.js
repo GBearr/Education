@@ -11,7 +11,7 @@ const navigator = createStackNavigator(
   {
     initialRouteName: 'Login',
     defaultNavigationOptions: {
-      title: 'Login',
+      title: 'Education Demo',
     },
   },
 );
